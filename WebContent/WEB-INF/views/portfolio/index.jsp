@@ -2,6 +2,9 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:import url="../layout/app.jsp">
     <c:param name="content">
+            <div id="mainpicture">
+                <img src="/image/mainpicture.jpg">
+            </div>
         <div id="wrapper">
             <div id="main">
                 メイン

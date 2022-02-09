@@ -22,35 +22,32 @@ body{
     padding: 5px;
 }
 
+#wrapper{
+    height: 500px;
+    justify-content: space-between;
+}
+
+#main{
+    float: left;
+    width: 70%;
+}
+
+aside{
+    float: left;
+    width: 30%;
+}
+
 #mainpicture.img{
     width: 100%;
 }
 
 #content{
-    width: 94%;
+    width: 100%;
     margin-top: 15px;
     padding-left: 3%;
 }
 
-h1{
-    width: 94%;
-    padding-top: 17px;
-    padding-left: 3%;
-    font-size: 24px;
-    color:#333333;
-}
-
-h2{
-    font-size: 36px;
-    margin-bottom: 15px;
-}
-
-li{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-p{
+#header p{
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -63,4 +60,13 @@ a{
 #header a{
     text-decoration: none;
     color: #ffffff;
+}
+
+
+#footer{
+    height: 50px;
+    background-color: #ff9800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

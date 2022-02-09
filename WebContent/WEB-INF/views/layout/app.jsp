@@ -11,16 +11,13 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <a href=""><img src="/image/portfoliorogo.png" alt="Portfolio by Erika.I"></a>
+                <a href=""><img src="/image/portfoliorogo2.png" alt="Portfolio by Erika.I"></a>
                 <ul>
                     <li>プロフィール</li>
                     <li>日報管理アプリ</li>
                     <li>その他の作品</li>
                     <li>コンタクト</li>
                 </ul>
-            </div>
-            <div id="mainpicture">
-                <img src="/image/mainpicture.jpg">
             </div>
             <div id="content">
                 ${param.content}

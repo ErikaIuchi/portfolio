@@ -35,6 +35,7 @@ body{
 aside{
     float: left;
     width: 30%;
+    text-align: center;
 }
 
 #mainpicture.img{

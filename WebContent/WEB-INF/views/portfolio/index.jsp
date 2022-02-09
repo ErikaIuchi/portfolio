@@ -10,7 +10,10 @@
                 メイン
             </div>
             <aside>
-                サイドバー
+                <img src="/image/icon.jpg"><BR>
+                Erika.i<BR>
+                1993,04,29生<BR>
+                システムエンジニアを志し勉強中。<BR>
             </aside>
         </div>
     </c:param>
